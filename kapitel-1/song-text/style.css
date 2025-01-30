@@ -1,0 +1,21 @@
+body {
+ background-color: rgb(2, 2, 2);
+ background-image: url(./bilder/chris-saran-1whO1awI5ao-unsplash\ \(1\).jpg);
+ background-size: contain;
+}
+
+h1 {
+    font-weight: bold;
+    color: #bbb;
+    font-size: 70px;
+}
+
+p {
+    color: #bbb;
+    font-weight: bold;
+    
+}
+
+a {
+color: #aaa;
+}
