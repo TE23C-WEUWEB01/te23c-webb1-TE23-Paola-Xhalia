@@ -13,7 +13,10 @@ h1 {
 p {
     color: #bbb;
     font-weight: bold;
-    
+    width: 500px;
+    margin-left: 100px;
+    background-color: #ad909037;
+    padding: 20px;
 }
 
 a {
